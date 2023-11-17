@@ -3,7 +3,7 @@ const express = require('express');
 // Create Express Application
 const app = express();
 // Set Port Number
-const port = 4000;
+const port = 3000;
 
 // Import Body-Parser Library
 const bodyParser = require('body-parser');
